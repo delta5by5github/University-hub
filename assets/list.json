@@ -1,0 +1,625 @@
+{
+  "public_universities": [
+    {
+      "name": "University of Cape Town",
+      "type": "University",
+      "website": "https://www.uct.ac.za/"
+    },
+    {
+      "name": "University of the Free State",
+      "type": "University",
+      "website": "https://www.ufs.ac.za/"
+    },
+    {
+      "name": "University of the Witwatersrand",
+      "type": "University",
+      "website": "https://www.wits.ac.za/"
+    },
+    {
+      "name": "University of the Western Cape",
+      "type": "University",
+      "website": "https://www.uwc.ac.za/"
+    },
+    {
+      "name": "University of Limpopo",
+      "type": "University",
+      "website": "https://www.ul.ac.za/"
+    },
+    {
+      "name": "Rhodes University",
+      "type": "University",
+      "website": "https://www.ru.ac.za/"
+    },
+    {
+      "name": "University of South Africa (UNISA)",
+      "type": "University",
+      "website": "https://www.unisa.ac.za/"
+    },
+    {
+      "name": "University of Zululand",
+      "type": "University",
+      "website": "https://www.unizulu.ac.za/"
+    },
+    {
+      "name": "Central University of Technology",
+      "type": "University of Technology",
+      "website": "https://www.cut.ac.za/"
+    },
+    {
+      "name": "North-West University",
+      "type": "University",
+      "website": "https://www.nwu.ac.za/"
+    },
+    {
+      "name": "Durban University of Technology",
+      "type": "University of Technology",
+      "website": "https://www.dut.ac.za/"
+    },
+    {
+      "name": "University of Johannesburg",
+      "type": "University",
+      "website": "https://www.uj.ac.za/"
+    },
+    {
+      "name": "University of Fort Hare",
+      "type": "University",
+      "website": "https://www.ufh.ac.za/"
+    },
+    {
+      "name": "University of Pretoria",
+      "type": "University",
+      "website": "https://www.up.ac.za/"
+    },
+    {
+      "name": "Stellenbosch University",
+      "type": "University",
+      "website": "https://www.sun.ac.za/"
+    },
+    {
+      "name": "Mangosuthu University of Technology",
+      "type": "University of Technology",
+      "website": "https://www.mut.ac.za/"
+    },
+    {
+      "name": "Vaal University of Technology",
+      "type": "University of Technology",
+      "website": "https://www.vut.ac.za/"
+    },
+    {
+      "name": "University of Venda",
+      "type": "University",
+      "website": "https://www.univen.ac.za/"
+    },
+    {
+      "name": "Nelson Mandela University",
+      "type": "University",
+      "website": "https://www.mandela.ac.za/"
+    },
+    {
+      "name": "Cape Peninsula University of Technology",
+      "type": "University of Technology",
+      "website": "https://www.cput.ac.za/"
+    },
+    {
+      "name": "Walter Sisulu University",
+      "type": "University",
+      "website": "https://www.wsu.ac.za/"
+    },
+    {
+      "name": "Sefako Makgatho Health Sciences University",
+      "type": "University",
+      "website": "https://www.smu.ac.za/"
+    },
+    {
+      "name": "Sol Plaatje University",
+      "type": "University",
+      "website": "https://www.spu.ac.za/"
+    },
+    {
+      "name": "University of Mpumalanga",
+      "type": "University",
+      "website": "https://www.ump.ac.za/"
+    },
+    {
+      "name": "Tshwane University of Technology",
+      "type": "University of Technology",
+      "website": "https://www.tut.ac.za/"
+    },
+    {
+      "name": "University of KwaZulu-Natal",
+      "type": "University",
+      "website": "https://www.ukzn.ac.za/"
+    }
+  ],
+  "private_higher_education_institutions": [
+    {
+      "name": "Helderberg College of Higher Education",
+      "type": "Private University/College",
+      "website": "https://www.hche.ac.za/"
+    },
+    {
+      "name": "IIE MSA",
+      "type": "Private University/College",
+      "website": "https://www.iiemsa.co.za/"
+    },
+    {
+      "name": "STADIO Higher Education",
+      "type": "Private University/College",
+      "website": "https://stadio.ac.za/"
+    },
+    {
+      "name": "The Independent Institute of Education (IIE) Group",
+      "type": "Private University/College (Umbrella)",
+      "website": "https://www.iie.ac.za/"
+    },
+    {
+      "name": "MANCOSA (Management College of Southern Africa)",
+      "type": "Private University/College",
+      "website": "https://www.mancosa.co.za/"
+    },
+    {
+      "name": "Regenesys Business School",
+      "type": "Private University/College",
+      "website": "https://www.regenesys.net/"
+    },
+    {
+      "name": "Cornerstone Institute",
+      "type": "Private University/College",
+      "website": "https://www.cornerstone.ac.za/"
+    },
+    {
+      "name": "TSIBA Business School",
+      "type": "Private University/College",
+      "website": "https://tsiba.ac.za/"
+    },
+    {
+      "name": "SACAP (The South African College of Applied Psychology)",
+      "type": "Private University/College",
+      "website": "https://www.sacap.edu.za/"
+    },
+    {
+      "name": "AFDA (The South African School of Motion Picture Medium and Live Performance)",
+      "type": "Private University/College",
+      "website": "https://www.afda.co.za/"
+    },
+    {
+      "name": "Milpark Education",
+      "type": "Private University/College",
+      "website": "https://www.milpark.ac.za/"
+    },
+    {
+      "name": "Boston City Campus",
+      "type": "Private University/College",
+      "website": "https://www.boston.ac.za/"
+    },
+    {
+      "name": "Eduvos",
+      "type": "Private University/College",
+      "website": "https://eduvos.com/"
+    },
+    {
+      "name": "IMM Graduate School",
+      "type": "Private University/College",
+      "website": "https://immgsm.ac.za/"
+    },
+    {
+      "name": "Auckland Park Theological Seminary",
+      "type": "Private Theological Seminary",
+      "website": "https://www.ats.ac.za/"
+    },
+    {
+      "name": "Baptist Theological College of Southern Africa",
+      "type": "Private Theological Seminary",
+      "website": "https://btc.co.za/"
+    },
+    {
+      "name": "George Whitefield College",
+      "type": "Private Theological College",
+      "website": "https://gwc.ac.za/"
+    }
+  ],
+  "public_tvet_colleges": [
+    {
+      "name": "Boland TVET College",
+      "type": "TVET College",
+      "website": "https://bolandcollege.com/"
+    },
+    {
+      "name": "Buffalo City TVET College",
+      "type": "TVET College",
+      "website": "https://bccollege.co.za/"
+    },
+    {
+      "name": "Capricorn TVET College",
+      "type": "TVET College",
+      "website": "https://www.capricorncollege.co.za/"
+    },
+    {
+      "name": "Central Johannesburg TVET College",
+      "type": "TVET College",
+      "website": "https://cjc.edu.za/"
+    },
+    {
+      "name": "Coastal TVET College",
+      "type": "TVET College",
+      "website": "https://www.coastalkzn.co.za/"
+    },
+    {
+      "name": "College of Cape Town for TVET",
+      "type": "TVET College",
+      "website": "https://www.cct.edu.za/"
+    },
+    {
+      "name": "Eastcape Midlands TVET College",
+      "type": "TVET College",
+      "website": "https://www.emcol.co.za/"
+    },
+    {
+      "name": "Ehlanzeni TVET College",
+      "type": "TVET College",
+      "website": "https://ehlanzenicollege.co.za/"
+    },
+    {
+      "name": "Ekurhuleni East TVET College",
+      "type": "TVET College",
+      "website": "https://www.eec.edu.za/"
+    },
+    {
+      "name": "Ekurhuleni West TVET College",
+      "type": "TVET College",
+      "website": "https://www.ewc.edu.za/"
+    },
+    {
+      "name": "Elangeni TVET College",
+      "type": "TVET College",
+      "website": "https://elangeni.edu.za/"
+    },
+    {
+      "name": "Esayidi TVET College",
+      "type": "TVET College",
+      "website": "https://esayiditvet.edu.za/"
+    },
+    {
+      "name": "False Bay TVET College",
+      "type": "TVET College",
+      "website": "https://www.falsebaycollege.co.za/"
+    },
+    {
+      "name": "Flavius Mareka TVET College",
+      "type": "TVET College",
+      "website": "https://flaviusmareka.net/"
+    },
+    {
+      "name": "Gert Sibande TVET College",
+      "type": "TVET College",
+      "website": "https://gscollege.edu.za/"
+    },
+    {
+      "name": "Goldfields TVET College",
+      "type": "TVET College",
+      "website": "https://goldfieldstvet.edu.za/"
+    },
+    {
+      "name": "Ikhala TVET College",
+      "type": "TVET College",
+      "website": "https://ikhalatvet.edu.za/"
+    },
+    {
+      "name": "Ingwe TVET College",
+      "type": "TVET College",
+      "website": "https://www.ingwecollege.edu.za/"
+    },
+    {
+      "name": "King Hintsa TVET College",
+      "type": "TVET College",
+      "website": "https://www.kinghintsacollege.edu.za/"
+    },
+    {
+      "name": "King Sabata Dalindyebo TVET College",
+      "type": "TVET College",
+      "website": "https://ksdcollege.edu.za/"
+    },
+    {
+      "name": "Lephalale TVET College",
+      "type": "TVET College",
+      "website": "https://www.leptvetcol.edu.za/"
+    },
+    {
+      "name": "Letaba TVET College",
+      "type": "TVET College",
+      "website": "https://www.letcol.co.za/"
+    },
+    {
+      "name": "Lovedale TVET College",
+      "type": "TVET College",
+      "website": "https://lovedalecollege.co.za/"
+    },
+    {
+      "name": "Majuba TVET College",
+      "type": "TVET College",
+      "website": "https://www.majuba.edu.za/"
+    },
+    {
+      "name": "Maluti TVET College",
+      "type": "TVET College",
+      "website": "https://malutitvet.co.za/"
+    },
+    {
+      "name": "Mnambithi TVET College",
+      "type": "TVET College",
+      "website": "https://mnambithicollege.co.za/"
+    },
+    {
+      "name": "Mopani South East TVET College",
+      "type": "TVET College",
+      "website": "https://mopanicollege.edu.za/"
+    },
+    {
+      "name": "Motheo TVET College",
+      "type": "TVET College",
+      "website": "https://motheofet.co.za/"
+    },
+    {
+      "name": "Mthashana TVET College",
+      "type": "TVET College",
+      "website": "https://www.mthashanacollege.co.za/"
+    },
+    {
+      "name": "Nkangala TVET College",
+      "type": "TVET College",
+      "website": "https://nkangalafet.edu.za/"
+    },
+    {
+      "name": "Northern Cape Rural TVET College",
+      "type": "TVET College",
+      "website": "https://www.ncrc.edu.za/"
+    },
+    {
+      "name": "Northern Cape Urban TVET College",
+      "type": "TVET College",
+      "website": "https://ncucollege.edu.za/"
+    },
+    {
+      "name": "Northlink TVET College",
+      "type": "TVET College",
+      "website": "https://www.northlink.co.za/"
+    },
+    {
+      "name": "Orbit TVET College",
+      "type": "TVET College",
+      "website": "https://orbitcollege.co.za/"
+    },
+    {
+      "name": "Port Elizabeth TVET College",
+      "type": "TVET College",
+      "website": "https://www.pecollege.edu.za/"
+    },
+    {
+      "name": "Sedibeng TVET College",
+      "type": "TVET College",
+      "website": "https://sedibengcollege.edu.za/"
+    },
+    {
+      "name": "Sekhukhune TVET College",
+      "type": "TVET College",
+      "website": "https://sekhukhunetvet.edu.za/"
+    },
+    {
+      "name": "South Cape TVET College",
+      "type": "TVET College",
+      "website": "https://sccollege.co.za/"
+    },
+    {
+      "name": "South West Gauteng TVET College",
+      "type": "TVET College",
+      "website": "https://swgc.co.za/"
+    },
+    {
+      "name": "Taletso TVET College",
+      "type": "TVET College",
+      "website": "https://taletso.edu.za/"
+    },
+    {
+      "name": "Thekwini TVET College",
+      "type": "TVET College",
+      "website": "https://www.thekwini.edu.za/"
+    },
+    {
+      "name": "Tshwane North TVET College",
+      "type": "TVET College",
+      "website": "https://tnc.edu.za/"
+    },
+    {
+      "name": "Tshwane South TVET College",
+      "type": "TVET College",
+      "website": "https://tsc.edu.za/"
+    },
+    {
+      "name": "Umfolozi TVET College",
+      "type": "TVET College",
+      "website": "https://www.umfolozicollege.co.za/"
+    },
+    {
+      "name": "Umgungundlovu TVET College",
+      "type": "TVET College",
+      "website": "https://ufetc.edu.za/"
+    },
+    {
+      "name": "Vhembe TVET College",
+      "type": "TVET College",
+      "website": "https://vhembecollege.edu.za/"
+    },
+    {
+      "name": "Vuselela TVET College",
+      "type": "TVET College",
+      "website": "https://vuselelacollege.co.za/"
+    },
+    {
+      "name": "Waterberg TVET College",
+      "type": "TVET College",
+      "website": "https://waterbergcollege.co.za/"
+    },
+    {
+      "name": "West Coast TVET College",
+      "type": "TVET College",
+      "website": "https://westcoastcollege.co.za/"
+    },
+    {
+      "name": "Western TVET College",
+      "type": "TVET College",
+      "website": "https://westerncollege.co.za/"
+    }
+  ],
+  "private_colleges": [
+    {
+      "name": "Oxbridge Academy",
+      "type": "Private College",
+      "website": "https://oxbridgeacademy.edu.za/"
+    },
+    {
+      "name": "Trifocus Fitness Academy",
+      "type": "Private College",
+      "website": "https://www.trifocusfitnessacademy.co.za/"
+    },
+    {
+      "name": "ACT Cape Town – Film Acting Academy",
+      "type": "Private College",
+      "website": "https://actcapetown.co.za/"
+    },
+    {
+      "name": "Optimi College",
+      "type": "Private College",
+      "website": "https://www.optimicollege.com/"
+    },
+    {
+      "name": "Star Quality Performing Arts College",
+      "type": "Private College",
+      "website": "https://www.starquality.co.za/"
+    },
+    {
+      "name": "Academy of Sound Engineering",
+      "type": "Private College",
+      "website": "https://ase.co.za/"
+    },
+    {
+      "name": "AAA School of Advertising",
+      "type": "Private College",
+      "website": "https://aaaschool.ac.za/"
+    },
+    {
+      "name": "Academy of Digital Arts",
+      "type": "Private College",
+      "website": "https://online.friendsofdesign.co.za/"
+    },
+    {
+      "name": "NewBridge Graduate Institute",
+      "type": "Private College",
+      "website": "https://newbridge.ac.za/"
+    },
+    {
+      "name": "Red & Yellow Creative School of Business",
+      "type": "Private College",
+      "website": "https://www.redandyellow.co.za/"
+    },
+    {
+      "name": "GetSmarter",
+      "type": "Private College",
+      "website": "https://www.getsmarter.com/"
+    },
+    {
+      "name": "HyperionDev",
+      "type": "Private College",
+      "website": "https://www.hyperiondev.com/"
+    },
+    {
+      "name": "CTU Training Solutions",
+      "type": "Private College",
+      "website": "https://www.ctutraining.ac.za/"
+    },
+    {
+      "name": "Boston Media House",
+      "type": "Private College",
+      "website": "https://bostonmediahouse.ac.za/"
+    },
+    {
+      "name": "ICESA Education",
+      "type": "Private College",
+      "website": "https://icesa.co.za/"
+    },
+    {
+      "name": "Open Learning Group",
+      "type": "Private College",
+      "website": "https://www.olg.ac.za/"
+    },
+    {
+      "name": "INTEC College",
+      "type": "Private College",
+      "website": "https://www.intec.edu.za/"
+    },
+    {
+      "name": "Inscape Education Group",
+      "type": "Private College",
+      "website": "https://inscape.ac.za/"
+    },
+    {
+      "name": "Central Technical College",
+      "type": "Private College",
+      "website": "https://www.ctc.edu.za/"
+    },
+    {
+      "name": "Dermatech",
+      "type": "Private College",
+      "website": "https://dermatech.co.za/"
+    },
+    {
+      "name": "Health and Fitness Professionals Association (HFPA)",
+      "type": "Private College",
+      "website": "https://hfpa.co.za/"
+    },
+    {
+      "name": "CodeSpace Academy",
+      "type": "Private College",
+      "website": "https://codespace.co.za/"
+    },
+    {
+      "name": "Damelin",
+      "type": "Private College",
+      "website": "https://www.damelin.co.za/"
+    },
+    {
+      "name": "Lyceum College",
+      "type": "Private College",
+      "website": "https://lyceum.co.za/"
+    },
+    {
+      "name": "CityVarsity",
+      "type": "Private College",
+      "website": "https://cityvarsity.co.za/"
+    },
+    {
+      "name": "Berea College of Technology",
+      "type": "Private College",
+      "website": "https://www.btc.edu.za/"
+    },
+    {
+      "name": "Greenside Design Center College of Design",
+      "type": "Private College",
+      "website": "https://designcenter.co.za/"
+    },
+    {
+      "name": "Southern African Wildlife College",
+      "type": "Private College",
+      "website": "https://wildlifecollege.org.za/"
+    },
+    {
+      "name": "Isa Carstens Academy",
+      "type": "Private College",
+      "website": "https://isacarstens.co.za/"
+    },
+    {
+      "name": "Ed-U City Campus",
+      "type": "Private College",
+      "website": "https://educitycampus.co.za/"
+    }
+  ]
+}
