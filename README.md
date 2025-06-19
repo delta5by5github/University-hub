@@ -21,5 +21,5 @@ A minimalist and elegant Flutter application designed to display a comprehensive
 
 ## 📦 Project Showcase
 
+ <img src="showcase.PNG" width="400" alt="App Screenshot">
 
-![Alt text for the image]("showcase.PNG")
