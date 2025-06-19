@@ -19,4 +19,6 @@ A minimalist and elegant Flutter application designed to display a comprehensive
 * [`dart:ui`](https://api.flutter.dev/flutter/dart-ui/dart-ui-library.html): Utilized for `ImageFilter.blur` to achieve the captivating liquid glass effect.
 * **JSON:** For storing and efficiently loading institution data.
 
-## 📦 Project Structure
+## 📦 Project Showcase
+
+![Alt text for the image]("https://github.com/delta5by5github/University-hub/commit/943eaea4481d7740467e5ed5698572e9b8c45c38#diff-c6290023f4c3653428e704143fe639d199f85668cb21cb0a07cc37e4691637ce")
